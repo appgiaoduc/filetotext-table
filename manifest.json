@@ -1,7 +1,7 @@
 {
   "name": "Chuyển file thành văn bản",
   "short_name": "File to text",
-  "description": "Hệ thống đánh giá tự động",
+  "description": "Hệ thống xử lí văn bản",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
