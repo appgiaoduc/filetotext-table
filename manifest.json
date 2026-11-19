@@ -1,7 +1,7 @@
 {
-  "name": "Chuyển file thành văn bản",
+  "name": "File to text",
   "short_name": "File to text",
-  "description": "Hệ thống xử lí văn bản",
+  "description": "Hệ thống Chuyển ảnh thành Văn bản, Excel ",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -16,7 +16,7 @@
       "purpose": "any maskable"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/128/17079/17079067.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
